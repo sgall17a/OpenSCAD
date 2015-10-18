@@ -1,0 +1,7 @@
+
+var box = {x:60,y:65,z:30};
+
+function main() {
+CSG.cube(box)
+
+}
